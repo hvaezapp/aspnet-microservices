@@ -1,0 +1,21 @@
+[
+  {
+
+    "Name": "Asus Laptop",
+    "Category": "Laptop",
+    "Summary": "Summary",
+    "Description": "Description",
+    "Price": 355000,
+    "ImageUrl": "Asus-Laptop.jpg"
+  },
+  {
+
+    "Name": "Nokia 1100",
+    "Category": "Mobile",
+    "Summary": "Summary",
+    "Description": "Description",
+    "Price": 250000,
+    "ImageUrl": "Nokia-1100.jpg"
+  }
+
+]
